@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071834485520",
+    "firebase_url": "https://fir-sms-t.firebaseio.com",
+    "project_id": "fir-sms-t",
+    "storage_bucket": "fir-sms-t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071834485520:android:1ca70ee599a8e9b20b8b95",
+        "android_client_info": {
+          "package_name": "com.nalazoocare.firebasesmst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071834485520-c3qklrgf8b1sa49v8eu65s3p6u6o1iq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuKn2_jX3DvWpI7aozWeGawln0eb2T4V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071834485520-c3qklrgf8b1sa49v8eu65s3p6u6o1iq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
